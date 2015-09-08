@@ -24,7 +24,7 @@
           </m2:ShowNameOnTiles>
         </m2:DefaultTile>
         <m2:LockScreen Notification="badgeAndTileText" BadgeLogo="images\slp24x24.png" />
-        <m2:SplashScreen Image="images\slp620x300.png" BackgroundColor="#87794E" />
+        <m2:SplashScreen Image="images\slp620x300.png" BackgroundColor="#647687" />
       </m2:VisualElements>
       <Extensions>
         <Extension Category="windows.backgroundTasks" StartPage="js\background.js">

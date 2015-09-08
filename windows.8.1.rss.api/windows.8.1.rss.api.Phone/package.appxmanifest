@@ -24,7 +24,7 @@
             <m3:ShowOn Tile="wide310x150Logo" />
           </m3:ShowNameOnTiles>
         </m3:DefaultTile>
-        <m3:SplashScreen Image="images\slp480x800.png" BackgroundColor="#87794E" />
+        <m3:SplashScreen Image="images\slp480x800.png" BackgroundColor="#647687" />
       </m3:VisualElements>
       <Extensions>
         <Extension Category="windows.backgroundTasks" StartPage="js\background.js">
