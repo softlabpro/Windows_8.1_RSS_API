@@ -184,9 +184,9 @@
     <Language Code="vi-vn" InMinimumRequirementSet="true" />
   </SupportedLocales>
   <ProductReservedInfo>
-    <MainPackageIdentityName>10627softlabpro.Svetvesti</MainPackageIdentityName>
+    <MainPackageIdentityName>10627softlabpro.RSSAPI</MainPackageIdentityName>
     <ReservedNames>
-      <ReservedName>Svet vesti</ReservedName>
+      <ReservedName>RSS API</ReservedName>
     </ReservedNames>
   </ProductReservedInfo>
   <AccountPackageIdentityNames>
@@ -212,21 +212,11 @@
     <MainPackageIdentityName>10627softlabpro.ShoppingWorldNews</MainPackageIdentityName>
     <MainPackageIdentityName>10627softlabpro.SportWorldNews</MainPackageIdentityName>
     <MainPackageIdentityName>10627softlabpro.Svetsporta</MainPackageIdentityName>
+    <MainPackageIdentityName>10627softlabpro.Svetvesti</MainPackageIdentityName>
     <MainPackageIdentityName>10627softlabpro.Tapaholic</MainPackageIdentityName>
     <MainPackageIdentityName>10627softlabpro.TechnologyWorldNews</MainPackageIdentityName>
     <MainPackageIdentityName>10627softlabpro.TourismWorldNews</MainPackageIdentityName>
     <MainPackageIdentityName>10627softlabpro.UniversalRSSReader</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://dev.windows.com/dashboard/Application?appId=9WZDNCRDF1K9">
-    <PackageInfo>
-      <OsMinVersion>6.3.1.0</OsMinVersion>
-      <PackageArchitecture>Neutral</PackageArchitecture>
-      <PackageMaxArchitectureVersion>2.2.0.1</PackageMaxArchitectureVersion>
-    </PackageInfo>
-    <PackageInfo>
-      <OsMinVersion>6.3.1.0</OsMinVersion>
-      <PackageArchitecture>Neutral</PackageArchitecture>
-      <PackageMaxArchitectureVersion>2.2.0.1</PackageMaxArchitectureVersion>
-    </PackageInfo>
-  </PackageInfoList>
+  <PackageInfoList LandingUrl="https://dev.windows.com/dashboard/Application?appId=9NBLGGH5X08L" />
 </StoreAssociation>

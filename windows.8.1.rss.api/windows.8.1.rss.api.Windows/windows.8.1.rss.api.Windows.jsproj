@@ -49,7 +49,7 @@
     <RequiredPlatformVersion>8.1</RequiredPlatformVersion>
     <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
-    <PackageCertificateKeyFile>slp.js.8.1.svet.vesti.Windows_StoreKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>windows.8.1.rss.api.Windows_StoreKey.pfx</PackageCertificateKeyFile>
     <PackageCertificateThumbprint>D75DDE21AC2A45CE5CDBE73D88B2646F86209780</PackageCertificateThumbprint>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
@@ -62,7 +62,7 @@
     <Content Include="default.html" />
     <Content Include="images\slp620x300.png" />
     <Content Include="css\default.css" />
-    <None Include="slp.js.8.1.svet.vesti.Windows_StoreKey.pfx" />
+    <None Include="windows.8.1.rss.api.Windows_StoreKey.pfx" />
     <None Include="Package.StoreAssociation.xml" />
     <Content Include="packages.config" />
   </ItemGroup>
