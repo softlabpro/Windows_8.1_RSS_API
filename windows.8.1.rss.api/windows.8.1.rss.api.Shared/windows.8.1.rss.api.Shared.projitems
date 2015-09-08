@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>21232988-6c52-4958-a91b-597bae5b285b</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)azure.txt" />
+    <Content Include="$(MSBuildThisFileDirectory)azure_CheckFeed.js" />
+    <Content Include="$(MSBuildThisFileDirectory)azure_notifyAllUsers.js" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp_blogspot.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp_email.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp_facebook.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp_github.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp_google.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp_linkedin.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp_reddit.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp_twitter.png" />
+    <Content Include="$(MSBuildThisFileDirectory)js\MobileServices.intellisense.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\MobileServices.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\MobileServices.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\MobileServices.pri" />
+    <Content Include="$(MSBuildThisFileDirectory)services\mobileServices\scripts\softlabpro.push.register.js">
+      <ConnectedServiceReference>softlabpro</ConnectedServiceReference>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)services\mobileServices\settings\softlabpro.js">
+      <ConnectedServiceReference>softlabpro</ConnectedServiceReference>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)windows.8.1.rss.api.json" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp24x24.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp310x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp_background.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp70x70.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp71x71.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp44x44.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp50x50.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp150x150.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp30x30.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\slp310x310.png" />
+    <Content Include="$(MSBuildThisFileDirectory)js\background.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\data.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\default.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\io.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\navigator.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\render.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\tiles.js" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\about\about.css" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\about\about.html" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\about\about.js" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\article\article.css" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\article\article.html" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\article\article.js" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\contact\contact.css" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\contact\contact.html" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\contact\contact.js" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\feed\feed.css" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\feed\feed.html" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\feed\feed.js" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\news\news.css" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\news\news.html" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\news\news.js" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\settings\settings.css" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\settings\settings.html" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\settings\settings.js" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\css\ui-dark.css" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\css\ui-dark.min.css" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\css\ui-light.css" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\css\ui-light.min.css" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\fonts\Symbols.ttf" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\js\base.js" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\js\base.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\js\base.min.js.map" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\js\en-US\ui.strings.js" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\js\ui.js" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\js\ui.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\js\ui.min.js.map" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\js\WinJS.intellisense-setup.js" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\js\WinJS.intellisense.js" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\License.txt" />
+    <Content Include="$(MSBuildThisFileDirectory)WinJS\README.md" />
+  </ItemGroup>
+</Project>

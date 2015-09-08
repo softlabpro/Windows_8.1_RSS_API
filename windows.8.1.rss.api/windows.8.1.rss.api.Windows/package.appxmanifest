@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="10627softlabpro.RSSAPI" Version="2.2.0.13" Publisher="CN=9AA670C4-81C9-40E2-B77E-C55F38B07B91" />
+  <Properties>
+    <DisplayName>RSS API</DisplayName>
+    <PublisherDisplayName>softlabpro</PublisherDisplayName>
+    <Logo>images\slp50x50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <m2:VisualElements DisplayName="rss.api" Description="windows.8.1.rss.api.Windows" ForegroundText="dark" BackgroundColor="transparent" Square150x150Logo="images\slp150x150.png" Square30x30Logo="images\slp30x30.png" ToastCapable="true">
+        <m2:DefaultTile ShortName="rss.api" DefaultSize="wide310x150Logo" Wide310x150Logo="images\slp310x150.png" Square310x310Logo="images\slp310x310.png" Square70x70Logo="images\slp70x70.png">
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+            <m2:ShowOn Tile="wide310x150Logo" />
+            <m2:ShowOn Tile="square310x310Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:LockScreen Notification="badgeAndTileText" BadgeLogo="images\slp24x24.png" />
+        <m2:SplashScreen Image="images\slp620x300.png" BackgroundColor="#87794E" />
+      </m2:VisualElements>
+      <Extensions>
+        <Extension Category="windows.backgroundTasks" StartPage="js\background.js">
+          <BackgroundTasks>
+            <Task Type="pushNotification" />
+          </BackgroundTasks>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="privateNetworkClientServer" />
+    <Capability Name="internetClientServer" />
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
