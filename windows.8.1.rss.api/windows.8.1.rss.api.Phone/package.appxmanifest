@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="10627softlabpro.RSSAPI" Version="1.1.0.0" Publisher="CN=9AA670C4-81C9-40E2-B77E-C55F38B07B91" />
+  <Identity Name="10627softlabpro.RSSAPI" Version="1.1.0.1" Publisher="CN=9AA670C4-81C9-40E2-B77E-C55F38B07B91" />
   <mp:PhoneIdentity PhoneProductId="f0bb5572-ce05-4a02-a4f9-67ffdb133f42" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>RSS API</DisplayName>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="10627softlabpro.RSSAPI" Version="2.2.0.14" Publisher="CN=9AA670C4-81C9-40E2-B77E-C55F38B07B91" />
+  <Identity Name="10627softlabpro.RSSAPI" Version="1.1.0.1" Publisher="CN=9AA670C4-81C9-40E2-B77E-C55F38B07B91" />
   <Properties>
     <DisplayName>RSS API</DisplayName>
     <PublisherDisplayName>softlabpro</PublisherDisplayName>
